@@ -1,0 +1,32 @@
+{
+  "name": "jquery-subbtn",
+  "version": "1.1.0",
+  "homepage": "https://github.com/neverwoods/jquery-subbtn",
+  "authors": [
+    "Robin van Baalen <robin@neverwoods.com>"
+  ],
+  "description": "This plugin replaces input submit buttons with an anchor tag that has the same behaviour. An achor tag is better stylable cross-browser.",
+  "main": "dist/subbtn.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "submit",
+    "styling",
+    "jquery",
+    "button",
+    "bili",
+    "neverwoods"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.*"
+  }
+}
